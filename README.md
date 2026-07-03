@@ -1,4 +1,4 @@
-# 📱 GroupDNA – WhatsApp Group Chat Analytics
+#  GroupDNA – WhatsApp Group Chat Analytics
 
 A Python-based WhatsApp Group Chat Analytics project that extracts meaningful insights from an exported WhatsApp chat using **Python Fundamentals** and **NumPy**.
 
@@ -6,7 +6,7 @@ A Python-based WhatsApp Group Chat Analytics project that extracts meaningful in
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes an exported WhatsApp group chat and generates useful statistics such as participant activity, communication patterns, response behaviour, word frequency, silent streaks, and personality archetypes.
 
@@ -14,24 +14,24 @@ The project was implemented **without using high-level data analysis libraries s
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📂 WhatsApp Chat Parser
-- 📊 Group Overview
-- 👥 Participant Statistics
-- 📅 Day-wise Activity Analysis
-- 🕒 Hour-wise Activity Analysis
-- 🔢 NumPy Activity Matrix
-- 🔥 Text-based Activity Heatmap
-- 📝 Word Frequency Analysis
-- ⚡ Response Speed Analysis
-- 😴 Silent Streak Analysis
-- 🎭 Personality Archetype Detection
-- 📄 Final Summary Report
+-  WhatsApp Chat Parser
+-  Group Overview
+-  Participant Statistics
+-  Day-wise Activity Analysis
+-  Hour-wise Activity Analysis
+-  NumPy Activity Matrix
+-  Text-based Activity Heatmap
+-  Word Frequency Analysis
+-  Response Speed Analysis
+-  Silent Streak Analysis
+-  Personality Archetype Detection
+-  Final Summary Report
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - NumPy
@@ -44,7 +44,7 @@ The project was implemented **without using high-level data analysis libraries s
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 whatsapp-group-chat-analytics/
@@ -57,20 +57,20 @@ whatsapp-group-chat-analytics/
 
 ---
 
-## ⚠️ Constraints Followed
+##  Constraints Followed
 
 As required in the project guidelines, the implementation avoids:
 
-- ❌ Pandas
-- ❌ Matplotlib
-- ❌ Seaborn
-- ❌ Plotly
+-  Pandas
+-  Matplotlib
+-  Seaborn
+-  Plotly
 
 The complete analysis is performed using **Python Fundamentals** and **NumPy**.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone this repository.
 2. Open the notebook in Jupyter Notebook or Google Colab.
@@ -79,7 +79,7 @@ The complete analysis is performed using **Python Fundamentals** and **NumPy**.
 
 ---
 
-## 📊 Analysis Included
+##  Analysis Included
 
 - Group Statistics
 - Participant Ranking
@@ -92,7 +92,7 @@ The complete analysis is performed using **Python Fundamentals** and **NumPy**.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Bhawesh Pandey**
 
